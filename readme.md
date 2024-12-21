@@ -5,6 +5,8 @@ This project is a decentralized platform that rewards individuals for showcasing
 
 ## Contract Address
 0x825767524e535E24720C5e1E204e8D8eCF05f26a
+![image](https://github.com/user-attachments/assets/15c3c949-d5f2-42c7-96c5-40947066e848)
+
 
 ## Project Vision
 Our vision is to create a transparent, decentralized, and fair ecosystem where individuals can demonstrate their skills and be rewarded based on merit. By leveraging blockchain technology, this platform ensures trust, transparency, and efficiency in the reward distribution process. This system aims to empower creators, skillful individuals, and organizers to engage in meaningful challenges.
